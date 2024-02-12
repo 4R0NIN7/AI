@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>stasiu (6).jpg</filename>
+	<path>/mnt/c/Users/PC/Desktop/AI/object_detection_tutorial/dataset/labeledImages/test/stasiu (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stasiu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>578</ymin>
+			<xmax>905</xmax>
+			<ymax>1458</ymax>
+		</bndbox>
+	</object>
+</annotation>
